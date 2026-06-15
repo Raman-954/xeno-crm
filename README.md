@@ -5,8 +5,8 @@ XENO CRM is a modern, futuristic customer relationship management system designe
 Built for the **Xeno Engineering SDE Internship Take-Home Assignment**.
 
 ## 🚀 Live Demo
-- **Frontend:** [Insert your Vercel Link]
-- **Backend:** [Insert your Render Link]
+- **Frontend:** xeno-crm-amber.vercel.app
+- **Backend:** https://xeno-crm-ohqp.onrender.com
 
 ---
 
